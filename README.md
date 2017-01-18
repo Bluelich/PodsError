@@ -1,0 +1,2 @@
+# PodsError
+only for testcocoapods
